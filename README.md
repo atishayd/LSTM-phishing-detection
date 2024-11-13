@@ -1,6 +1,6 @@
 # Phishing Email Detection Using LSTM Model
 
-This project implements a phishing email detection system using a Long Short-Term Memory (LSTM) neural network model. The system takes raw email text as input and returns a prediction indicating whether the email is likely phishing or legitimate.
+This project implements a phishing email detection system using a Long Short-Term Memory (LSTM) neural network. The system takes raw email text as input and returns a prediction indicating whether the email is likely phishing or legitimate.
 
 ## Installation
 
