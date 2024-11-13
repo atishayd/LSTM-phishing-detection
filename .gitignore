@@ -1,3 +1,5 @@
 *.csv
 *.xlsx
 data/
+lstm_model.keras
+phishing.csv
